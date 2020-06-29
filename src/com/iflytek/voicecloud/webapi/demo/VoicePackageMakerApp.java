@@ -27,13 +27,13 @@ public class VoicePackageMakerApp {
     private static final String hostUrl = "https://tts-api.xfyun.cn/v2/tts";
 
     // 到控制台-语音合成页面获取
-    private static final String APPID = "51b60849";
+    private static final String APPID = "";
 
     // 到控制台-语音合成页面获取
-    private static final String API_SECRET = "708c15ae7967bdaa26e1023a138cb05c";
+    private static final String API_SECRET = "";
 
     //到控制台-语音合成页面获取
-    private static final String API_KEY = "d73ef7b81eb0228f1e7bb2b586d9f935";
+    private static final String API_KEY = "";
 
     // 默认发音人
     private static final String DEFAULT_VCN = "x_xiaoling";
